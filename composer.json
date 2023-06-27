@@ -1,0 +1,6 @@
+{
+    "require": {
+        "adt/smartemailing": "^2.0",
+        "yahnis-elsts/plugin-update-checker": "^4.9"
+    }
+}

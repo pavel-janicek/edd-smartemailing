@@ -1,0 +1,21 @@
+{
+	"name": "adt/smartemailing",
+	"type": "library",
+	"description": "Easy way to interact with SmartEmailing API from PHP",
+	"license": ["MIT"],
+	"authors": [
+		{
+			"name": "Apps Dev Team",
+			"email": "hello@appsdevteam.com",
+			"homepage": "https://www.appsdevteam.com"
+		}
+	],
+	"require": {
+		"guzzlehttp/guzzle": "^6.3",
+		"nette/utils": "^2.2"
+	},
+	"minimum-stability": "stable",
+	"autoload": {
+		"psr-4": { "ADT\\": "src/" }
+	}
+}
